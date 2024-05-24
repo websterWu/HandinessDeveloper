@@ -1,0 +1,137 @@
+We are committed to protecting the privacy of our users (“users” or “you”). This privacy policy (hereinafter referred to as the “policy”) is designed to explain our practices as a controller for collecting, storing, using, managing, and protecting your user information (including your personal information) according to applicable data protection laws. Your use of the handiness Album application, including all its features (“services”).
+
+In this policy, “personal information” refers to any information or combination of information that can be used to identify, contact, or locate an individual associated with the collected information.
+
+Please note that you must provide certain categories of data (specified at the time of collection). If you do not provide any or sufficient data marked as mandatory, we may not be able to provide you with the handiness Album application services.
+
+Information You Provide
+
+To provide and improve the services, we will collect and process your personal information and user information as described in this policy. If you do not provide this information, we may not be able to provide you with our products or services. You should ensure that all personal information and user information you submit to us is complete, accurate, true, and correct. Failure to do so may result in our inability to provide you with all or part of the services.
+
+Please also note that the handiness Album application provided to you includes application programming interfaces (APIs) or software development kits (SDKs) from our service providers, which contain tracking tools from such service providers. These third parties may use the APIs and SDKs on handiness Album to collect, store, use, and manage user information. These third parties may provide us with certain statistics based on user information, which they determine necessary to obtain statistical data and decide how to process the user information independently.
+
+Device Information
+
+When you use our services on a mobile device, we will collect information about your device, including (where applicable) its International Mobile Equipment Identity (“IMEI”), advertising identifier (“IDFA”), and vendor identifier (“IDFV”), integrated circuit card identifier (“ICCID”), media access control (“MAC”) address, model and resolution, which we will use to calculate the number of devices using our products and services and analyze data about device models and graphics adaptation. We also need unique count analysis information, such as daily active users (DAU), daily active devices (DAD), monthly active users (MAU), monthly active devices (MAD), and retention, user behavior funnels, product crash rates, and more.
+
+Crash Data
+
+We need data to count the number of users that can help us improve handiness Album and bring you a better user experience. For the above purposes, we will collect your universal unique identifier (“UUID”). Firebase will collect your instance ID. By collecting this information, third parties can provide us with unique product analytics.
+
+For more information about Firebase, please visit https://firebase.google.com/support/privacy/.
+
+Advertising
+
+We may work with third-party advertising networks to display advertisements in the handiness Album application. Our third-party partners may display ads to you based on your personal data (such as device identifiers and location information). For the above purposes, we or the third-party advertising networks may collect your advertising ID for advertising and user analysis purposes. If your device does not have an advertising ID, we may use other persistent identifiers. If you wish to opt out of interest-based advertising, you can open the settings in the handiness Album application, click on personalization and data, and then turn off the personalized ads switch. Please note that you will continue to receive general advertisements.
+
+Our advertising network partners include Google-Mobile-Ads (for more information, please visit https://policies.google.com/privacy/).
+
+Information Disclosure and Sharing
+
+We ensure that third parties will not share or disclose all or part of your personal information to other third parties (excluding our service providers) except for the following purposes:
+
+(i) Protect the safety of others or their property;
+
+(ii) Prevent or address network fraud;
+
+(iii) Maintain our legitimate interests;
+
+(iv) Act in accordance with our purposes as described in the “Information You Provide” section, provided that any recipient of such disclosure is also bound by this policy and can provide adequate protection for your information; and/or
+
+(v) Comply with legal regulations or requests from government departments or judicial authorities, which are generally aimed at maintaining internet security and the rights, property, and safety of us, our users, and third parties.
+
+Information Security
+
+handiness Album and third parties will take reasonable measures to prevent the loss, misuse, unauthorized access, or disclosure of information. For example, some of our services will use encryption technologies (such as SSL) to protect your personal information. However, you understand and accept that (in the internet industry) even though we and third parties will take all possible security measures, we cannot always guarantee the 100% security of your information. We and third parties are not responsible for any unintentional disclosure. You understand and accept that the systems and communication networks you use to access our services may fail due to factors beyond our control.
+
+Information Access and Control
+
+We will take all reasonable and appropriate technical measures to ensure that you can access, update, and correct your personal information or other personal information you provide to us while using our services. Before you access, update, correct, or delete such personal information, we may verify your identity to protect the security of your account.
+
+Applicable Law
+
+This policy is formulated, effective, and will be interpreted and enforced according to Singapore law, regardless of its conflict of law provisions. Any dispute arising under this agreement will also be resolved according to the terms of service. We do not declare or guarantee that this policy complies with the privacy laws of any jurisdiction. Therefore, you should not interpret this policy according to such laws.
+
+Additional Information for EU Users
+
+If you are within the EU, the following also applies in addition to the above information provided in this privacy policy.
+
+Legal Basis for Data Processing
+
+The legal basis for processing your personal data listed in the “Device Information” section is to perform a contract with you or take steps at your request before entering into a contract (Article 6(1)(b) GDPR). Providing this information is necessary. Without such information, we will not be able to provide you with the corresponding services.
+
+The legal basis for processing your personal data listed in the “Crash Data” section is our legitimate interests in optimizing our products and services (Article 6(1)(f) GDPR). Providing this data is not necessary for the performance of the contract.
+
+The legal basis for processing your personal data listed in the “Communication and Feedback” section is to perform a contract with you or take steps at your request before entering into a contract (Article 6(1)(b) GDPR). Providing this information is necessary. Without such information, we will not be able to provide you with the corresponding services.
+
+The legal basis for processing your personal data listed in the “Advertising” section is our legitimate interests in optimizing our products and services and providing you with location-based advertising (Article 6(1)(f) GDPR). Providing this data is not necessary for the performance of the contract.
+
+Your Rights as a Data Subject
+
+As an EU data subject, you have the following rights regarding the processing of your personal data:
+
+Right of Access
+
+As a data subject, you have the right to obtain confirmation from us as to whether we are processing your personal data (Article 15(1) GDPR). If so, you also have the right to access the personal data and the information listed in Article 15(1) GDPR. This includes information about the processing purposes, the categories of personal data being processed, and the recipients or categories of recipients to whom the personal data has been or will be disclosed.
+
+Right to Rectification
+
+As a data subject, you have the right to rectification under Article 16 GDPR, meaning you can have us correct inaccurate data we process and complete incomplete personal data.
+
+Right to Erasure (“Right to Be Forgotten”)
+
+As a data subject, you have the right to request the erasure of your personal data, and we are obligated to erase your personal data without undue delay when one of the reasons listed in Article 17(1) GDPR applies. For example, if the personal data is no longer necessary for the purposes for which it was collected or otherwise processed (Article 17(1)(a) GDPR), this may be the case.
+
+If we have made the personal data public and are obligated to erase it, we must take reasonable steps, including technical measures, considering available technology and implementation costs, to inform controllers processing the personal data that you have requested those controllers to erase any links to, or copy or replication of, those personal data (Article 17(2) GDPR).
+
+The right to erasure (“right to be forgotten”) does not apply if processing is necessary for one of the reasons listed in Article 17(3) GDPR. For example, if processing is necessary to comply with a legal obligation or for the establishment, exercise, or defense of legal claims (Article 17(3)(a) and (e) GDPR), this may be the case.
+
+Right to Restrict Processing
+
+As a data subject, you have the right to obtain a restriction of processing from us if one of the conditions listed in Article 18(1) GDPR applies. For example, if you contest the accuracy of personal data, this may be the case. In such a case, the processing restriction will last for a period enabling us to verify the accuracy of the personal data (Article 18(1)(a) GDPR).
+
+Restriction means that the stored personal data is marked with the goal of limiting its future processing (Article 4(3) GDPR).
+
+Right to Data Portability
+
+As a data subject, you have the right to receive the personal data you provided to us in a structured, commonly used, and machine-readable format, where the processing is based on consent according to Article 6(1)(
+
+a) GDPR or Article 9(2)(a) GDPR, or based on a contract according to Article 6(1)(b) GDPR, and processed by automated means (Article 20(1) GDPR).
+
+To verify whether our processing is based on consent under Article 6(1)(a) GDPR or Article 9(2)(a) GDPR, or based on a contract under Article 6(1)(b) GDPR, please refer to the “Legal Basis for Processing” section of this privacy statement above.
+
+In exercising your right to data portability, you generally have the right to have your personal data transmitted directly from us to another controller, where technically feasible (Article 20(2) GDPR).
+
+Right to Object
+
+As a data subject, you have the right to object under the conditions laid down in Article 21 GDPR.
+
+Right to Object on Grounds Related to Your Particular Situation
+
+As a data subject, you have the right to object at any time to the processing of your personal data based on Article 6(1)(e) or (f) GDPR, including profiling based on these provisions, on grounds relating to your particular situation.
+
+To verify whether our processing is based on Article 6(1)(e) or (f) GDPR, please refer to the “Legal Basis for Processing” section of this privacy statement above.
+
+If you object on grounds related to your particular situation, we will no longer process your personal data unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights, and freedoms, or for the establishment, exercise, or defense of legal claims.
+
+Right to Object to Direct Marketing
+
+If your personal data is processed for direct marketing purposes, you have the right to object at any time to the processing of your personal data for such marketing, including profiling to the extent related to such direct marketing.
+
+If you object to processing for direct marketing purposes, we will no longer process your personal data for these purposes.
+
+Right to Withdraw Consent
+
+If we process your personal data based on your consent, you have the right to withdraw your consent at any time under Article 7(3) GDPR. Withdrawing your consent does not affect the lawfulness of processing based on your consent before its withdrawal.
+
+To verify whether our processing is based on consent under Article 6(1)(a) GDPR or Article 9(2)(a) GDPR, or based on a contract under Article 6(1)(b) GDPR, please refer to the “Legal Basis for Processing” section of this privacy statement above.
+
+Right to Lodge a Complaint with a Supervisory Authority
+
+As a data subject, you have the right to lodge a complaint with a supervisory authority under the conditions laid down in Article 57(1)(f) GDPR.
+
+Additional Information on Your Rights as a Data Subject
+
+For more information on your rights as a data subject, please refer to Articles 12 to 21 GDPR, which are accessible here: http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679.
+
+This policy is written and drafted in English but may be translated into other languages. In the event of any conflict between the English version of this policy and any translated version, the English version shall prevail.
